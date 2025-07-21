@@ -16,7 +16,7 @@ const Hero = () => {
             I am a Computer Science graduate with a strong interest in the applications of Machine Learning and Data Engineering. Through hands-on experience in projects spanning Reinforcement Learning, data manipulation, and data analysis, I have developed a solid foundation in technologies such as PyTorch, TensorFlow, and MySQL. I aspire to apply these technical skills to create meaningful solutions that contribute to a better world.
           </p>
           <a
-            href="/public/Resume.pdf"
+            href="/portfolio/Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             download
